@@ -1,2 +1,3 @@
 # c-
-c# dilindeki temel kavramları not alacağım 
+c# dilindeki temel kavramları not aldığım ve bazı projeler yüklediğim bir repo
+
